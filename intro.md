@@ -10,3 +10,5 @@ The day was clear, and so, we started very early in the morning at the feet of a
  Now, we just had to decide which path to take.
 
 What will you do next?
+
+- [Take the scenic forest path](forest_trail.md)
