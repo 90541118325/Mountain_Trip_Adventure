@@ -6,5 +6,5 @@ The Scenic Forest Path
  
  
  The last thing is to keep the staff engaged through the provision of incentives for increased performance. 
- - [Enjoy in the cool water](water_dip.md)
- - [Next level of woods hiking](deeper_hike.md)
+ - [Enjoy in the cool water]
+ - [Next level of woods hiking]
