@@ -11,6 +11,7 @@ The day was clear, and so, we started very early in the morning at the feet of a
 
 What will you do next?
 
-- [Take the scenic forest path] (./forest_trail.md)
-- [Explore stream] (./explore_stream.md)
-- [Sleep Trail] (./sleep_trail.md)
+ - [Take the scenic forest path](forest_trail.md)
+ - [Explore the streams](explore_stream.md)
+ - [Sleep Trail](sleep_trail.md)
+ - [Rest at Campsite](rest_campsite.md)
