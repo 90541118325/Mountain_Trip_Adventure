@@ -13,5 +13,5 @@ What will you do next?
 
  - [Take the scenic forest path](forest_trail.md)
  - [Explore the streams](explore_stream.md)
- - [Sleep Trail](steep_trail.md)
+ - [Steep Trail](steep_trail.md)
  - [Rest at Campsite](rest_campsite.md)
