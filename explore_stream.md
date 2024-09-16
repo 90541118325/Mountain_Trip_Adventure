@@ -6,5 +6,5 @@ On our way, we get a small wooden bridge that takes us to another level of the f
  
 What will happen next? 
 
-- Yes, that is how it should look like, cross the bridge and peek onto the other side. 
-- Back to the trials of the earlier discussions and conclude.
+1. Yes, that is how it should look like, cross the bridge and peek onto the other side.
+2. Back to the trials of the earlier discussions and conclude.
